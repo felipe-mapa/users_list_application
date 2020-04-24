@@ -39,3 +39,7 @@ npm start
 ```
 
 *if using XAMPP, make sure main directory (or just backend) is inside /xampp/htdocs
+
+## ADMIN LOGIN
+email: admin@userlistapp.com
+pass: Admin123
