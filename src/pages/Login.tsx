@@ -22,9 +22,9 @@ const Login = () => {
     setEmailMessage(val_email.message);
 
     // validade password
-    const val_password = validate("EMAIL", password);
+    const val_password = validate("PASS", password);
     if (password === "") {
-      setPasswordMessage("This field is required");
+      setPasswordMessage("Incorrect password");
     }
 
     // check if both are valid
