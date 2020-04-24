@@ -1,0 +1,8 @@
+.AuthButton a{
+    text-decoration: none;
+    color: #fff
+}
+
+.AuthButton__Login a{
+    color: #000
+}
