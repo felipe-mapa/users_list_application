@@ -1,0 +1,7 @@
+{
+    "name": "User List Application",
+    "description": "User Management System",
+    "require": {
+        "firebase/php-jwt": "^5.0"
+    }
+}
